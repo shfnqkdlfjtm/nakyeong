@@ -4,7 +4,7 @@
 
 I am Yim Nakyeong, this reporsitory is for open source software practice.
 
-I'm intersted in   
+:one: I'm intersted in   
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
@@ -12,7 +12,7 @@ I'm intersted in
 
 
 
-Etc
+:two: Etc
 * Google Link: [Google](https://google.com, "google link")
 * Markdown: [78 Tools for Writing and Previewing Markdown](https://mashable.com/archive/markdown-tools)
 * Icon: [Simple Icon](https://simpleicons.org/)
